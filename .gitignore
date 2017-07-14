@@ -1,0 +1,6 @@
+askQuestions
+askQuestions.exe
+askQuestions.pid
+askQuestions\.*
+jstmp/*
+/.idea
